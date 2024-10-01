@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://lanyard.kyrie25.me/api/1270773611778543637?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="100%" style="vertical-align: top;">
+
+
 # 💫 About Me:
 🌟 Passionate Designer & Developer | Bringing Creativity to Life Through Code & Visuals 🎨<br><br>With a solid foundation in front-end development, I specialize in crafting responsive, user-friendly websites using HTML, CSS, and JavaScript. My coding skills are complemented by a deep understanding of Python, allowing me to develop efficient solutions that bridge the gap between design and functionality.<br><br>But my journey doesn't stop at coding. I'm equally passionate about design, where I transform ideas into compelling visuals. My toolkit includes industry-leading software like Photoshop, Canva, Premiere Pro, and CapCut. Whether it's creating stunning graphics, editing videos, or developing comprehensive design systems, I approach every project with a blend of creativity and technical precision.<br><br>✨ Let's connect and turn ideas into reality, one pixel and line of code at a time.
 
