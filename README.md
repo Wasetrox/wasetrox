@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lanyard.kyrie25.me/api/1270773611778543637?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="100%" style="vertical-align: top;">
+  <img src="https://lanyard.kyrie25.me/api/312062402273345537?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="100%" style="vertical-align: top;">
 
 
 # 💫 About Me:
