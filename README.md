@@ -1,26 +1,38 @@
 <div align="center">
-  <img src="https://lanyard.kyrie25.me/api/312062402273345537?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="100%" style="vertical-align: top;">
+  <h1>💫 About Me:</h1>
+  <p>🌟 Passionate Designer & Developer | Bringing Creativity to Life Through Code & Visuals 🎨</p>
+  <p>With a solid foundation in front-end development, I specialize in crafting responsive, user-friendly websites using HTML, CSS, and JavaScript. My coding skills are complemented by a deep understanding of Python, allowing me to develop efficient solutions that bridge the gap between design and functionality.</p>
+  <p>But my journey doesn't stop at coding. I'm equally passionate about design, where I transform ideas into compelling visuals. My toolkit includes industry-leading software like Photoshop, Canva, Premiere Pro, and CapCut. Whether it's creating stunning graphics, editing videos, or developing comprehensive design systems, I approach every project with a blend of creativity and technical precision.</p>
+  <p>✨ Let's connect and turn ideas into reality, one pixel and line of code at a time.</p>
 
+  <h1>Contact & Support</h1>
+  <a href="https://discord.gg/novadev">
+    <img src="https://api.weblutions.com/discord/invite/novadev/" alt="Discord Banner">
+  </a>
 
-# 💫 About Me:
-🌟 Passionate Designer & Developer | Bringing Creativity to Life Through Code & Visuals 🎨<br><br>With a solid foundation in front-end development, I specialize in crafting responsive, user-friendly websites using HTML, CSS, and JavaScript. My coding skills are complemented by a deep understanding of Python, allowing me to develop efficient solutions that bridge the gap between design and functionality.<br><br>But my journey doesn't stop at coding. I'm equally passionate about design, where I transform ideas into compelling visuals. My toolkit includes industry-leading software like Photoshop, Canva, Premiere Pro, and CapCut. Whether it's creating stunning graphics, editing videos, or developing comprehensive design systems, I approach every project with a blend of creativity and technical precision.<br><br>✨ Let's connect and turn ideas into reality, one pixel and line of code at a time.
+  <h1>💻 Tech Stack:</h1>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 
+  <h1>📊 GitHub Stats:</h1>
+  <!-- Aşağıdaki satırlara kendi GitHub kullanıcı adınızı ekleyin -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wasetrox&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasetrox&layout=compact&theme=radical" alt="Top Languages">
 
-# Contact & Support
-[![Discord Banner](https://api.weblutions.com/discord/invite/novadev/)](https://discord.gg/novadev)
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wasetrox&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wasetrox&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasetrox&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wasetrox&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=wasetrox&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3>🔝 Top Contributed Repo</h3>
+<a href="https://github.com/Wasetrox/V14-Gelismis-Guard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasetrox&repo=V14-Gelismis-Guard&theme=radical" alt="Top Repo">
+</a>
+</div>
